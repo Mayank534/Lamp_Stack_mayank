@@ -6,10 +6,10 @@ Rename this file in the format `yourRollNumber_solution.md` (example, `220000_so
 
 ## Your zeroth approach below
 
-Reasoning - %%% Copied the code on IDE, corrected the string and int main syntax, commented out the string ved %%%
+Reasoning -  Copied the code on IDE, corrected the string and int main syntax, commented out the string ved 
 
 ```
-%%% TOPIC
+ TOPIC
     Windows PowerShell Help System
 
 SHORT DESCRIPTION
@@ -72,30 +72,30 @@ ROT-21: abvprr lbh qvq penpx n ebgngvba rapelcgvba ba lbhe bja. Gur sbyybjvat vf
 ROT-22: bcwqss mci rwr qfoqy o fchohwcb sbqfmdhwcb cb mcif ckb. Hvs tczzckwbu wg o qzis tcf hvs bslh dinnzs: QZOGG ct hvoh WBDIH
 ROT-23: cdxrtt ndj sxs rgprz p gdipixdc tcrgneixdc dc ndjg dlc. Iwt udaadlxcv xh p rajt udg iwt ctmi ejooat: RAPHH du iwpi XCEJI
 ROT-24: deysuu oek tyt shqsa q hejqjyed udshofjyed ed oekh emd. Jxu vebbemydw yi q sbku veh jxu dunj fkppbu: SBQII ev jxqj YDFKJ
-ROT-25: efztvv pfl uzu tirtb r ifkrkzfe vetipgkzfe fe pfli fne. Kyv wfccfnzex zj r tclv wfi kyv evok glqqcv: TCRJJ fw kyrk ZEGLK %%%
+ROT-25: efztvv pfl uzu tirtb r ifkrkzfe vetipgkzfe fe pfli fne. Kyv wfccfnzex zj r tclv wfi kyv evok glqqcv: TCRJJ fw kyrk ZEGLK 
 ```
 
 ---
 
 ## Your second approach below (strings.txt)
 
-Reasoning - %%% used- cat Lamp_Stack_task/question_mark/Lamp_Stack/1/5/0/3/strings.txt %%%
+Reasoning -used- cat Lamp_Stack_task/question_mark/Lamp_Stack/1/5/0/3/strings.txt 
 
 ```
-%%% kw4QLNylm2inErX
+kw4QLNylm2inErX
 DabAWF1UenBD2W
 kPVEQPc6ZN8x2jn
 g4JoMqFZyat9vd5
 ORNwuwGtKDLydge
 TqMuGims7vlJtno
-8dc2evcCSSc4kUy (password) %%%
+8dc2evcCSSc4kUy (password) 
 ```
 
 ---
 
 ## Your third approach below (fourth.zip)
 
-Reasoning - %%% used- extracting: Lamp_Stack_task/question_mark/Lamp_Stack/1/5/0/3/strings.txt %%%
+Reasoning - 
 
 ```
 %%% Replace this with the 3rd challenge answer %%%
