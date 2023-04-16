@@ -6,7 +6,7 @@ Rename this file in the format `yourRollNumber_solution.md` (example, `220000_so
 
 ## Your zeroth approach below
 
-Reasoning -  Copied the code on IDE, corrected the string and int main syntax, commented out the string ved 
+Reasoning -  Copied the code on IDE, corrected the string and int main syntax, commented out the string ved, then ran the command 'man' on shell
 
 ```
  TOPIC
@@ -36,18 +36,18 @@ LONG DESCRIPTION
     You can find help for Windows PowerShell online in the TechNet Library
     beginning at http://go.microsoft.com/fwlink/?LinkID=108518.
 
-    To open online help for any cmdlet or function, type:%%%
+    To open online help for any cmdlet or function, type:
 ```
 
 ---
 
 ## Your first approach below (first.txt)
 
-Reasoning - %%% Mapping each character of the first set to the corresponding character of the second set:
- (first.txt), got to know it was19 spaces forward (a mapped to s) as there were 19 \n %%%
+Reasoning -  Mapping each character of the first set to the corresponding character of the second set:
+ (first.txt), got to know it was19 spaces forward (a mapped to s) as there were 19 \n 
 
 ```
-%%% ROT-0: fgauww qgm vav ujsuc s jglslagf wfujqhlagf gf qgmj gof. Lzw xgddgoafy ak s udmw xgj lzw fwpl hmrrdw: UDSKK gx lzsl AFHML
+ROT-0: fgauww qgm vav ujsuc s jglslagf wfujqhlagf gf qgmj gof. Lzw xgddgoafy ak s udmw xgj lzw fwpl hmrrdw: UDSKK gx lzsl AFHML
 ROT-1: ghbvxx rhn wbw vktvd t khmtmbhg xgvkrimbhg hg rhnk hpg. Max yheehpbgz bl t venx yhk max gxqm inssex: VETLL hy matm BGINM
 ROT-2: hicwyy sio xcx wluwe u linuncih yhwlsjncih ih siol iqh. Nby ziffiqcha cm u wfoy zil nby hyrn jottfy: WFUMM iz nbun CHJON
 ROT-3: ijdxzz tjp ydy xmvxf v mjovodji zixmtkodji ji tjpm jri. Ocz ajggjrdib dn v xgpz ajm ocz izso kpuugz: XGVNN ja ocvo DIKPO
